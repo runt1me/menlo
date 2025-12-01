@@ -1,8 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_CLASSES_ROOT\*\shell\Push to Menlo]
-@="Push to Menlo"
-  "Icon"="C:\\Users\\Ryan\\Documents\\images\\pitchfork.ico"
-
-[HKEY_CLASSES_ROOT\*\shell\Push to Menlo\command]
-@="\"C:\\Users\\Ryan\\AppData\\Local\\Programs\\Python\\Python314\\python.exe\" \"C:\\Users\\Ryan\\Documents\\tools\\menlo_push.py\" \"%1\""
